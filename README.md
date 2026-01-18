@@ -13,7 +13,6 @@
 
 ## Usage
 
-**Manual Installation**
 
 1. Copy the `.colors` files of your choice to the `color-themes` folder (reference Krita's [documentation](https://docs.krita.org/en/reference_manual/resource_management.html))
 3. Open Krita
